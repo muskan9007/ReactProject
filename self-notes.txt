@@ -1,0 +1,4 @@
+commands to setup repository
+git remote add origin https://github.com/muskan9007/ReactProject.git
+git branch -M main
+git push -u origin main
