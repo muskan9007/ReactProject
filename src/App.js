@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import { Addtweet } from './Applications/Addtweet';
 
 function App() {
   return (
     <div className="App">
       <h1>Hello</h1>
+      <Addtweet></Addtweet>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
