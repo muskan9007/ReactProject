@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Showtweet = () => {
+export const Display = () => {
   return (
     <div>
-        <h1>Showtweet</h1>
+        <h1>Display</h1>
     </div>
   )
 }
